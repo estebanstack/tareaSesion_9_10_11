@@ -16,4 +16,5 @@ public class ejercicio10 {
         System.out.println("\n"+ cadena);
     }
     }
-
+//utilicé el patron builder para realizar la union del array de strings, en este caso el StringBuilder, y con la palabra
+//reservada append uní cada elemento del array como se habia pedido en ese ejercicio, ya que antes, como se puede ver lo hice con for
