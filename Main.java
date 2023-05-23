@@ -11,3 +11,6 @@ public class Main {
 
     }
 }
+
+//apliqué el metodo state para este ejercicio simulando una maquina tipo vending de cocacola
+//para así mostrar como funciona esta
